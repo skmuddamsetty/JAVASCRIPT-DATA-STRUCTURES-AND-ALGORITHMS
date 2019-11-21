@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/LeetCode/Google/28. Implement strStr().js"
+      "program": "${workspaceFolder}/LeetCode/Google/88. Merge Sorted Array.js"
     }
   ]
 }
