@@ -7,7 +7,7 @@
  * https://leetcode.com/problems/excel-sheet-column-title/
  * https://www.youtube.com/watch?v=42jn_cl7g00
  */
-var convertToTitle = function(n) {
+convertToTitle = n => {
   let result = '';
   let char;
   while (n !== 0) {

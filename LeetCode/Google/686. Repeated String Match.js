@@ -16,7 +16,7 @@
  * https://www.youtube.com/watch?v=c8cH8jejvBk
  *
  */
-var repeatedStringMatch = function(A, B) {
+repeatedStringMatch = (A, B) => {
   let result = 1;
   let tempStr = A;
   while (tempStr.length < B.length) {
