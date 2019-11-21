@@ -5,6 +5,7 @@
  * Given a positive integer, return its corresponding column
  * title as appear in an Excel sheet.
  * https://leetcode.com/problems/excel-sheet-column-title/
+ * https://www.youtube.com/watch?v=42jn_cl7g00
  */
 var convertToTitle = function(n) {
   let result = '';
@@ -18,4 +19,4 @@ var convertToTitle = function(n) {
   return result;
 };
 
-console.log(convertToTitle(2000));
+console.log(convertToTitle(701));
