@@ -53,10 +53,13 @@ Give an example
 ```
 
 ## LeetCode - Google
+```
+Easy
+```
 
-* [125. Valid Palindrome.js](https://github.com/skmuddamsetty/JAVASCRIPT-DATA-STRUCTURES-AND-ALGORITHMS/blob/master/LeetCode/Google/125.%20Valid%20Palindrome.js) - Easy
-* [168. Excel Sheet Column Title.js](https://github.com/skmuddamsetty/JAVASCRIPT-DATA-STRUCTURES-AND-ALGORITHMS/blob/master/LeetCode/Google/168.%20Excel%20Sheet%20Column%20Title.js) - Easy
-* [28. Implement strStr().js](https://github.com/skmuddamsetty/JAVASCRIPT-DATA-STRUCTURES-AND-ALGORITHMS/blob/master/LeetCode/Google/28.%20Implement%20strStr().js) - Easy
+* [125. Valid Palindrome.js](https://github.com/skmuddamsetty/JAVASCRIPT-DATA-STRUCTURES-AND-ALGORITHMS/blob/master/LeetCode/Google/125.%20Valid%20Palindrome.js)
+* [168. Excel Sheet Column Title.js](https://github.com/skmuddamsetty/JAVASCRIPT-DATA-STRUCTURES-AND-ALGORITHMS/blob/master/LeetCode/Google/168.%20Excel%20Sheet%20Column%20Title.js)
+* [28. Implement strStr().js](https://github.com/skmuddamsetty/JAVASCRIPT-DATA-STRUCTURES-AND-ALGORITHMS/blob/master/LeetCode/Google/28.%20Implement%20strStr().js)
 
 
 ## Contributing
