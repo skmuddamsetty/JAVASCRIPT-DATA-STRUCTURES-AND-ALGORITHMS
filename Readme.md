@@ -56,11 +56,11 @@ Give an example
 
 Add additional notes about how to deploy this on a live system
 
-## Built With
+## LeetCode - Google
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [125. Valid Palindrome.js](https://github.com/skmuddamsetty/JAVASCRIPT-DATA-STRUCTURES-AND-ALGORITHMS/blob/master/LeetCode/Google/125.%20Valid%20Palindrome.js)
+* [168. Excel Sheet Column Title.js](https://github.com/skmuddamsetty/JAVASCRIPT-DATA-STRUCTURES-AND-ALGORITHMS/blob/master/LeetCode/Google/168.%20Excel%20Sheet%20Column%20Title.js)
+* [28. Implement strStr().js](https://github.com/skmuddamsetty/JAVASCRIPT-DATA-STRUCTURES-AND-ALGORITHMS/blob/master/LeetCode/Google/28.%20Implement%20strStr().js)
 
 ## Contributing
 
