@@ -1,6 +1,6 @@
 # JAVASCRIPT DATA STRUCTURES AND ALGORITHMS
 
-One Paragraph of project description goes here
+A Complete List of Problems with Solutions on Algorithms and Data Structures with the best possible solutions.
 
 ## Getting Started
 
@@ -52,10 +52,6 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## LeetCode - Google
 
 * [125. Valid Palindrome.js](https://github.com/skmuddamsetty/JAVASCRIPT-DATA-STRUCTURES-AND-ALGORITHMS/blob/master/LeetCode/Google/125.%20Valid%20Palindrome.js)
@@ -66,9 +62,6 @@ Add additional notes about how to deploy this on a live system
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
