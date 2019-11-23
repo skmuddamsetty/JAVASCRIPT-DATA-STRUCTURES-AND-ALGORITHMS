@@ -2,6 +2,8 @@
 
 A Complete List of Problems with Solutions on Algorithms and Data Structures with the best possible solutions.
 
+## Sorting Algorithms
+
 ## LeetCode - Google
 ### Easy
 
