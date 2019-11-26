@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/LeetCode/Google/1133. Largest Unique Number.js"
+      "program": "${workspaceFolder}/LeetCode/Google/299. Bulls and Cows/299. Bulls and Cows.js"
     }
   ]
 }
