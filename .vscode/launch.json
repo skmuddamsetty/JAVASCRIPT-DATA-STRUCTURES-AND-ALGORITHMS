@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Launch Program",
       "skipFiles": ["<node_internals>/**"],
-      "program": "${workspaceFolder}/LeetCode/Google/299. Bulls and Cows/299. Bulls and Cows.js"
+      "program": "${workspaceFolder}/LeetCode/Others/476. Number Complement/476. Number Complement.js"
     }
   ]
 }
